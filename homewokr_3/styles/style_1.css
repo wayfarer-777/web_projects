@@ -1,0 +1,23 @@
+body {
+  background: rgb(148, 165, 175);
+}
+
+.h_1 {
+  margin: 0 auto 10px;
+  height: 200px;
+  padding: 10px;
+  background-color: #aaa;
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+  color: goldenrod;
+  font-size: 40px;
+}
+
+.title_1{
+  /* text-align: center; */
+  font-style: italic;
+  font-weight: bold;
+  color: goldenrod;
+  font-size: 24px;
+}
